@@ -1,9 +1,9 @@
 ## Olá! Tudo bem?
 
 <div align="center">
-  <a href="https://github.com/deivid057">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deivid057&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid057&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/deividanjos">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deividanjos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividanjos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,6 +19,6 @@
   <a href = "mailto:deividanjos057@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deivid-anjos-57513120b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/deivid057/deivid057/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/deividanjos/deividanjos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
