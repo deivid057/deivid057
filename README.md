@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://github.com/deividanjos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deividanjos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividanjos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deividanjos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividanjos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Deivid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deivid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deivid-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Deivid-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/236x/6f/43/18/6f4318b6ac0236a367835acd9d4a4d73.jpg">
+  <img align="right" alt="Deivid-pic" height="120" style="border-radius:50px;" src="https://i.pinimg.com/236x/79/a8/51/79a851a9ef775a2d962c7dd4ea20da93.jpg">
   </div>
 
 ##
